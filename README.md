@@ -10,7 +10,7 @@
   <li>Learn GitHub Basics:
 I want to develop a solid understanding of GitHub, including how to create repositories, clone projects, commit changes, push updates, and collaborate using branches and pull requests. These skills are fundamental for working on real-world software and data science projects, especially in team environments.</li>
   <li>Gain a Deeper Understanding of AI:
-One of my major goals is to explore the core principles of artificial intelligence. I aim to learn how AI systems are built, trained, and evaluated, and to get hands-on experience with tools and frameworks used in machine learning and AI development.i</li>
+One of my major goals is to explore the core principles of artificial intelligence. I aim to learn how AI systems are built, trained, and evaluated, and to get hands-on experience with tools and frameworks used in machine learning and AI development</li>
   <li>Improve Code Literacy and Confidence:
 I hope to strengthen my ability to read, understand, and analyse code written by others. By working through exercises and studying different coding styles, I want to become more comfortable navigating unfamiliar codebases and identifying how different parts of a program work together.</li>
   <li>Develop Practical, Future-Ready Skills:
