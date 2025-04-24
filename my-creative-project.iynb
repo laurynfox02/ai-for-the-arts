@@ -1,0 +1,72 @@
+# Project Title: *Mythos Machine*
+### An Interactive Storytelling Platform Powered by Large Language Models
+
+---
+
+## Project Overview
+
+*Mythos Machine* is a proposed digital platform that allows users to co-create interactive mythology-inspired stories with the help of a large language model (LLM). The system combines AI-generated narratives with user decisions to build branching tales rooted in global folklore, legends, and cultural traditions.
+
+This creative storytelling tool is designed to preserve and reimagine ancient myths while offering a deeply personalized and educational experience. Users can explore a blend of traditional narrative structures and generative creativity—where they are both the reader and the co-author.
+
+---
+
+## Objectives & Value
+
+The aim of *Mythos Machine* is to:
+
+- **Promote Cultural Literacy**
+- **Support Creative Learning**
+- **Foster Engagement**
+- **Champion Inclusion**
+- **Encourage Reflective Thinking**
+
+---
+
+## Interaction Design
+
+### Key Roles and Flow
+
+1. **User Input:** Choose a mythological region and protagonist archetype.
+2. **LLM Output (Narrator Mode):** Generates an opening myth-style story.
+3. **Decision Points:** User choices shape the branching storyline.
+4. **Cultural Context Mode (Optional):** Ask for explanations of mythological references.
+5. **Creative Remix Mode (Optional):** Change genre/style/language mid-story.
+
+---
+
+## Example Use Case
+
+- Select "Polynesian mythology" + "seafaring explorer"
+- Encounter storm conjured by ocean god
+- User chants—god calms storm, reveals hidden island
+- Explore background via Cultural Context Mode
+- Receive a fully narrated, savable myth-based story
+
+---
+
+## Learning, Engagement, Inclusion
+
+- **Learning:** Explore culture, language, storytelling
+- **Engagement:** Personalized, interactive narrative design
+- **Inclusion:** Underrepresented global mythologies brought to light
+
+---
+
+## Reflection
+
+### Positives:
+- Revitalizes traditional stories
+- Useful in classrooms and libraries
+- Builds respect for diverse cultures
+
+### Concerns:
+- Needs cultural consultation
+- Risk of blending traditions inaccurately
+- Demands responsible prompt design and training
+
+---
+
+## Final Thoughts
+
+*Mythos Machine* empowers users to interact with human heritage in meaningful, playful, and respectful ways. When designed thoughtfully, it could serve as a bridge between ancient wisdom and modern creativity.
